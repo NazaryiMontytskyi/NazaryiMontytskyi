@@ -27,6 +27,10 @@ Here are some technologies which I pursue to use as my core technology stack in 
 |-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
 | <img src="./java-icon.png" alt="Java" width="40" /> | <img src="./spring-icon.png" alt="Spring" width="40" /> | <img src="./postgre-sql-icon.png" alt="PostgreSQL" width="40" /> | <img src="./next-js-icon.png" alt="NextJS" width="40" /> | <img src="./docker-icon.png" alt="Docker" width="40" /> | <img src="./figma-icon.png" alt="Figma" width="40" /> | <img src="./html-icon.png" alt="HTML" width="40" /> | <img src="./css-icon.png" alt="CSS" width="40" /> |
 
+### Projects
+
+Here will be smth soon...
+
 ### Work experience
 <table border = "0">
   <tr>
