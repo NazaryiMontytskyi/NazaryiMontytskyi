@@ -8,15 +8,17 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 
 ### Languages
 ```
-:ua: Ukrainian - Native (C2)
+:ukraine: Ukrainian - Native (C2)
 ```
 ```
-:gb: English - Intermediate (B1+)
+:uk: English - Intermediate (B1+)
 ```
 
 
 ### Technologies where I have a goal to grow
 Here are some technologies which I pursue to use as my core technology stack in developing.
-| Java                                      | Spring                                  | PostgreSQL                             | NextJS                                  | Docker                                  | Figma                                      |
-|-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|
-| <img src="./java-icon.png" alt="Java" width="40" /> | <img src="./spring-icon.png" alt="Spring" width="40" /> | <img src="./postgre-sql-icon.png" alt="PostgreSQL" width="40" /> | <img src="./next-js-icon.png" alt="NextJS" width="40" /> | <img src="./docker-icon.png" alt="Docker" width="40" /> | <img src="./figma-icon.png" alt="Figma" width="40" /> |
+Here’s the updated table with two new columns for HTML and CSS:
+
+| Java                                      | Spring                                  | PostgreSQL                             | NextJS                                  | Docker                                  | Figma                                      | HTML                                      | CSS                                      |
+|-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
+| <img src="./java-icon.png" alt="Java" width="40" /> | <img src="./spring-icon.png" alt="Spring" width="40" /> | <img src="./postgre-sql-icon.png" alt="PostgreSQL" width="40" /> | <img src="./next-js-icon.png" alt="NextJS" width="40" /> | <img src="./docker-icon.png" alt="Docker" width="40" /> | <img src="./figma-icon.png" alt="Figma" width="40" /> | <img src="./html-icon.png" alt="HTML" width="40" /> | <img src="./css-icon.png" alt="CSS" width="40" /> |
