@@ -19,17 +19,4 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 Here are some technologies which I pursue to use as my core technology stack in developing.
 | Java                                      | Spring                                  | PostgreSQL                             | NextJS                                  | Docker                                  | Figma                                      |
 |-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|
-| <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" /> | <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="40" /> | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" /> | <img src="https://simpleicons.org/icons/nextdotjs.svg" alt="NextJS" width="40" /> | <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="40" /> | <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="40" /> |
-
-### Technologies which I'm acquainted with
-Here are the technologies with which I'm similar with
-| C                                          | C++                                        | Python                                     | Turbo Assembler                           | C#                                        | PostgreSQL                                 | Java                                      | Spring                                    | Thymeleaf                                  |
-|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
-| <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" /> | <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" /> | <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" /> | <img src="https://simpleicons.org/icons/assembly.svg" alt="Turbo Assembler" width="40" /> | <img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="40" /> | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="40" /> | <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="40" /> | <img src="https://simpleicons.org/icons/spring.svg" alt="Spring" width="40" /> | <img src="https://simpleicons.org/icons/thymeleaf.svg" alt="Thymeleaf" width="40" /> |
-
-
-
-
-
-
-
+| <img src="./java-icon.png" alt="Java" width="40" /> | <img src="./spring-icon.png" alt="Spring" width="40" /> | <img src="./postgre-sql-icon.png" alt="PostgreSQL" width="40" /> | <img src="./next-js-icon.png" alt="NextJS" width="40" /> | <img src="./docker-icon.png" alt="Docker" width="40" /> | <img src="./figma-icon.png" alt="Figma" width="40" /> |
