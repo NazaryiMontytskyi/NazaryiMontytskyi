@@ -14,7 +14,6 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 
 ### Technologies where I have a goal to grow
 Here are some technologies which I pursue to use as my core technology stack in developing.
-Here’s the updated table with two new columns for HTML and CSS:
 
 | Java                                      | Spring                                  | PostgreSQL                             | NextJS                                  | Docker                                  | Figma                                      | HTML                                      | CSS                                      |
 |-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
