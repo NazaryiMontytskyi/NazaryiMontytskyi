@@ -1,5 +1,6 @@
-
+<p align="center">
 <img src="./git_hub_logo.png" alt="Logo" width="300">
+</p>
 
 # Greetings to all, I'm Nazar
 
