@@ -10,7 +10,7 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 
 ### Education
 
-<p style="font-weight: bold; font-size: larger;">Igor Sikorski Polytechnic Institute</p>
+<p style="font-weight: bold; font-size: 24px;">Igor Sikorski Polytechnic Institute</p>
 <p style="font-weight: normal; font-size: medium;">Bachelor Software Engineering</p>
 <p style="font-weight: normal; font-size: small;">(In progress, 2022-2026)</p>
 
