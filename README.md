@@ -11,6 +11,7 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 ### Education
 
 <b>Bachelor, Software Engineering</b>
+
 Kyiv Polytechnic Institute, 2022-2026
 
 ### Technologies where I have a goal to grow
