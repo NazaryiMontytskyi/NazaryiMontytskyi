@@ -10,9 +10,7 @@ I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Instit
 
 ### Education
 
-<p style="font-weight: bold; font-size: 24px;">Igor Sikorski Polytechnic Institute</p>
-<p style="font-weight: normal; font-size: medium;">Bachelor Software Engineering</p>
-<p style="font-weight: normal; font-size: small;">(In progress, 2022-2026)</p>
+<br>Bachelor, Software Engineering</br>, Kyiv Polytechnic Institute (2022-2026)
 
 ### Technologies where I have a goal to grow
 Here are some technologies which I pursue to use as my core technology stack in developing.
