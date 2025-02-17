@@ -26,3 +26,18 @@ Here are some technologies which I pursue to use as my core technology stack in 
 | Java                                      | Spring                                  | PostgreSQL                             | NextJS                                  | Docker                                  | Figma                                      | HTML                                      | CSS                                      |
 |-------------------------------------------|----------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
 | <img src="./java-icon.png" alt="Java" width="40" /> | <img src="./spring-icon.png" alt="Spring" width="40" /> | <img src="./postgre-sql-icon.png" alt="PostgreSQL" width="40" /> | <img src="./next-js-icon.png" alt="NextJS" width="40" /> | <img src="./docker-icon.png" alt="Docker" width="40" /> | <img src="./figma-icon.png" alt="Figma" width="40" /> | <img src="./html-icon.png" alt="HTML" width="40" /> | <img src="./css-icon.png" alt="CSS" width="40" /> |
+
+### Work experience
+<table border = "0">
+  <tr>
+    <td><img src="./sc-kpi-logo.png" alt="sc kpi" width="35" /></td>
+    <td>Deputy Chairman of the Student Council <br>of Kyiv Polytechnic Institute</td>
+    <td>1 year<br>05.05.2024 - 02.05.2025</td>
+  </tr>
+  <tr>
+    <td><img src="./logika-main.png" alt="logika" width="35" /></td>
+    <td>Python Teacher</td>
+    <td>3 months<br>13.08.2023 - 13.11.2023</td>
+  </tr>
+  
+</table>
