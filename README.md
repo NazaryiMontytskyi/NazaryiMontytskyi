@@ -7,9 +7,9 @@
 I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Institute. For now I'm studying in order to achieve the grade of bachelor.
 
 ### Languages
-<img src="./ua-flag.png" alt="Logo" width="15"> `Ukrainian - Native (C2)`
+<img src="./ua-flag.png" alt="Logo" width="25"> `Ukrainian - Native (C2)`
 
-<img src="./uk-flag.png" alt="Logo" width="15"> `English - Intermediate (B1+)`
+<img src="./uk-flag.png" alt="Logo" width="25"> `English - Intermediate (B1+)`
 
 
 ### Technologies where I have a goal to grow
