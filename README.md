@@ -1,7 +1,7 @@
 # Greetings to all, I'm Nazar
 
 ### About me
-I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Institute. For now I'm studying in order to achieve the grade of bachelor.
+I'm a software engineering student in the Igor Sikorskii Kyiv Polytechnic Institute <img src="./kpi-logo.png" alt="Java" width="30" />. For now I'm studying in order to achieve the grade of bachelor.
 
 ### Languages
 <img src="./ua-flag.png" alt="Logo" width="25"> `Ukrainian - Native (C2)`
